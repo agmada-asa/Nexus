@@ -62,7 +62,7 @@ The server will start listening on port `3030`. Leave this terminal tab open.
 
 ### 2. Run the Swift Application
 
-1. Open the `nexus-app/AI Chat App.xcodeproj` workspace in Xcode.
+1. Open the `nexus-app/Nexus.xcodeproj` workspace in Xcode.
 2. Select your target destination (My Mac).
 3. Build and Run the application (`Cmd + R`).
 
